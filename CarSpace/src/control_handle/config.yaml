@@ -1,0 +1,19 @@
+teleop_name: /dev/ttyUSB1
+serial_on: False
+serial_name: /dev/ttyAMA0
+buffer_size: 32
+maxCapacity: 3
+maxTimeDifference: 0.3
+speedUp_step: 10
+unenable_motor_usleep: 500
+pause_usleep: 50
+for_loop_usleep: 100
+CAN_operation_out_cmd_usleep: 500
+send_CAN_data_usleep: 10
+sigint_handler_usleep: 100
+min_dealy_usec_4: 100000
+min_dealy_usec_5: 400000
+min_dealy_usec_6: 
+times_speed: 1.0
+times_speed_mu: 0.5
+alpha: 0.5

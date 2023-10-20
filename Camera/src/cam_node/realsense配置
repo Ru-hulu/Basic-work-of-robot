@@ -1,0 +1,7 @@
+SDK安装-ROS安装
+https://blog.csdn.net/a17381562089/article/details/115345082
+https://github.com/IntelRealSense/librealsense/blob/master/doc/installation.md
+https://github.com/IntelRealSense/realsense-ros/tree/ros1-legacy(以此为主)
+需要：sudo apt-get install ros-kinetic-ddynamic-reconfigure
+
+realsense的安装真的在git上是乱七八糟
